@@ -1,1 +1,1 @@
-# JavaScript_Basics
+# JavaScript_Learning
