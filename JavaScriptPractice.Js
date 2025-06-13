@@ -1,4 +1,4 @@
-let array = ["Dave","John","Alexb","Alexh","Camp","Vidya","Horejs","Joe"]
+let array = ["Dhoni","Jedaja","Pant","Axar","Kohli","Sachin","Shewag","Nehra"]
 //Only array['1'] is an actual array index. array['01'] is an arbitrary string property 
 //that will not be visited in array iteration.
 //Indexing the array using string
